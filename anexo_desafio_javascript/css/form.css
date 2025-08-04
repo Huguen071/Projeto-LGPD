@@ -75,3 +75,26 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+.check{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#termos{
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+#descontos{
+    padding: 0;
+}
+
+#termos input{
+    padding: 0;
+}
+
+#descontos input{
+    padding: 0;
+}
